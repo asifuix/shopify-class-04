@@ -39,7 +39,7 @@ nav ul{
 nav ul li a{
     font-size: 16px;
     font-weight: 500;
-    color: #67cf5a;
+    color: #31632b;
     text-decoration: none;
     display: inline-block;
     padding: 10px 20px;
@@ -48,7 +48,7 @@ nav ul li a{
 }
 nav ul li a:hover, .menu-active{
     background-color: #4fc841;
-    color: #fff;
+    color: #252525;
     border-radius: 5px;
 }
 .top-sidenav{
@@ -78,7 +78,7 @@ nav ul li a:hover, .menu-active{
     font-size: 30px;
     text-align: center;
     margin-bottom: 30px;
-    color: #4fc841;
+    color: #35852b;
     text-transform: uppercase;
     animation: letterSpacing;
     animation-duration: 3s;
@@ -120,16 +120,17 @@ nav ul li a:hover, .menu-active{
 .place-list .place-info h2{
     font-size: 20px;
     font-weight: 600;
-    color: #4fc94d;
+    color: #348533;
 }
 .place-list .place-info p{
     font-size: 16px;
     font-weight: 500;
-    color: #6e6e6e;
+    color: #585858;
 }
 .place-list .place-info a{
     text-decoration: none;
-    color: white;
+    font-weight: 500;
+    color: #2c2c2c;
     background-color: #50c841de;
     display: inline-block;
     margin-top: 20px;
@@ -139,6 +140,7 @@ nav ul li a:hover, .menu-active{
 }
 .place-list .place-info a:hover{
     background-color: #50c841;
+    color: #600000;
 }
 .place-list:hover .place-thumbnail img{
     cursor: pointer;
@@ -154,7 +156,7 @@ nav ul li a:hover, .menu-active{
     font-size: 30px;
     text-align: center;
     margin-bottom: 30px;
-    color: #4fc841;
+    color: #35852b;
     text-transform: uppercase;
     animation: letterSpacing;
     animation-duration: 3s;
